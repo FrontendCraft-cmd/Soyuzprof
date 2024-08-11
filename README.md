@@ -1,1 +1,1 @@
-GitHub Pages - https://nebeyi.github.io/Soyuzprof/
+GitHub Pages - https://frontendcraft-cmd.github.io/Soyuzprof/
